@@ -59,7 +59,7 @@ export function SelectedWork() {
                       </div>
                       <div className="mt-8">
                         <TextLink href={`/work/${project.slug}`}>
-                          Learn more →
+                          View company →
                         </TextLink>
                       </div>
                     </div>

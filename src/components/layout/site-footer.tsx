@@ -5,7 +5,7 @@ import { MonoLabel } from "@/components/shared/mono-label";
 import { TextLink } from "@/components/shared/text-link";
 
 const footerNav = [
-  { href: "/work", label: "Companies" },
+  { href: "/work", label: "Work" },
   { href: "/blog", label: "Writing" },
   { href: "/podcast", label: "Podcast" },
 ];

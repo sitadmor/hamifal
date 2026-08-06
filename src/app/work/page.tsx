@@ -7,7 +7,7 @@ import { ProjectVisual } from "@/components/work/project-visual";
 import { projects } from "@/lib/data/projects";
 
 export const metadata: Metadata = {
-  title: "Companies",
+  title: "Work",
   description: "Companies built with HAMIFAL.",
 };
 
@@ -17,9 +17,9 @@ export default function WorkPage() {
       <section className="border-b border-border">
         <Container className="py-16 md:py-24">
           <Reveal>
-            <MonoLabel className="mb-4 block">Companies</MonoLabel>
+            <MonoLabel className="mb-4 block">Index</MonoLabel>
             <h1 className="font-display text-5xl tracking-tight md:text-7xl">
-              Companies
+              Work
             </h1>
             <p className="mt-6 max-w-xl text-base leading-relaxed text-muted-foreground md:text-lg">
               The companies HAMIFAL is building.
