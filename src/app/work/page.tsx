@@ -8,7 +8,7 @@ import { projects } from "@/lib/data/projects";
 
 export const metadata: Metadata = {
   title: "Work",
-  description: "Companies built with HAMIFAL.",
+  description: "Selected ventures and projects built with HAMIFAL.",
 };
 
 export default function WorkPage() {
@@ -22,7 +22,8 @@ export default function WorkPage() {
               Work
             </h1>
             <p className="mt-6 max-w-xl text-base leading-relaxed text-muted-foreground md:text-lg">
-              The companies HAMIFAL is building.
+              Ventures, products, and technical programs. Selected work from
+              across the studio.
             </p>
           </Reveal>
         </Container>

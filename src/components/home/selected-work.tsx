@@ -14,7 +14,7 @@ export function SelectedWork() {
           <div className="mb-14 md:mb-20">
             <MonoLabel className="mb-4 block">Companies</MonoLabel>
             <h2 className="font-display text-4xl tracking-tight md:text-6xl">
-              Companies we build.
+              Selected recent work.
             </h2>
           </div>
         </Reveal>
