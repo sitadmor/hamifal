@@ -11,16 +11,11 @@ export function SelectedWork() {
     <section id="companies" className="border-b border-border">
       <Container className="py-20 md:py-28">
         <Reveal>
-          <div className="mb-14 flex flex-col gap-6 md:mb-20 md:flex-row md:items-end md:justify-between">
-            <div>
-              <MonoLabel className="mb-4 block">Companies</MonoLabel>
-              <h2 className="font-display text-4xl tracking-tight md:text-6xl">
-                Selected recent work.
-              </h2>
-            </div>
-            <TextLink href="/work" className="md:mb-2">
-              All work →
-            </TextLink>
+          <div className="mb-14 md:mb-20">
+            <MonoLabel className="mb-4 block">Companies</MonoLabel>
+            <h2 className="font-display text-4xl tracking-tight md:text-6xl">
+              Companies we build.
+            </h2>
           </div>
         </Reveal>
 
@@ -64,7 +59,7 @@ export function SelectedWork() {
                       </div>
                       <div className="mt-8">
                         <TextLink href={`/work/${project.slug}`}>
-                          View company →
+                          Learn more →
                         </TextLink>
                       </div>
                     </div>

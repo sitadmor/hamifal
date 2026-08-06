@@ -8,7 +8,7 @@ import { HamifalMark } from "@/components/shared/hamifal-mark";
 import { cn } from "@/lib/utils";
 
 const navItems = [
-  { href: "/work", label: "Work" },
+  { href: "/work", label: "Companies" },
   { href: "/blog", label: "Writing" },
   { href: "/podcast", label: "Podcast" },
 ];

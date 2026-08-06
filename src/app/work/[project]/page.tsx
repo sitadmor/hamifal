@@ -110,7 +110,7 @@ export default async function ProjectPage({ params }: ProjectPageProps) {
       <section>
         <Container className="py-16 md:py-24">
           <Reveal>
-            <MonoLabel className="mb-8 block">Related Work</MonoLabel>
+            <MonoLabel className="mb-8 block">Other companies</MonoLabel>
             <div className="site-grid gap-y-8">
               {related.map((item) => (
                 <Link
@@ -126,7 +126,7 @@ export default async function ProjectPage({ params }: ProjectPageProps) {
               ))}
             </div>
             <div className="mt-12">
-              <TextLink href="/work">← All work</TextLink>
+              <TextLink href="/work">← Companies</TextLink>
             </div>
           </Reveal>
         </Container>
