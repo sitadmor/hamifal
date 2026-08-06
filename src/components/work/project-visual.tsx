@@ -51,10 +51,7 @@ export function ProjectVisual({
         </div>
 
         <div className="absolute inset-0 flex flex-col justify-between p-5 md:p-8">
-          <div className="flex items-start justify-between gap-4">
-            <span className="label-mono opacity-70">
-              PROJECT {project.number}
-            </span>
+          <div className="flex items-start justify-end gap-4">
             <span className="label-mono opacity-70">{project.year}</span>
           </div>
 

@@ -42,7 +42,7 @@ export function SelectedWork() {
                       }
                     >
                       <MonoLabel className="mb-5 block text-foreground">
-                        {project.number} / {project.name}
+                        {project.name}
                       </MonoLabel>
                       <h3 className="font-display text-3xl tracking-tight md:text-4xl">
                         <Link

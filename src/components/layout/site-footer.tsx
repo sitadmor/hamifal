@@ -6,7 +6,6 @@ import { TextLink } from "@/components/shared/text-link";
 
 const footerNav = [
   { href: "/work", label: "Work" },
-  { href: "/#thesis", label: "Thesis" },
   { href: "/blog", label: "Writing" },
   { href: "/podcast", label: "Podcast" },
 ];

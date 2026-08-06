@@ -39,7 +39,7 @@ export default function WorkPage() {
                     <div className="site-grid items-end gap-y-6">
                       <div className="col-span-12 md:col-span-5">
                         <MonoLabel className="mb-4 block text-foreground">
-                          {project.number} / {project.name}
+                          {project.name}
                         </MonoLabel>
                         <h2 className="font-display text-3xl tracking-tight transition-opacity group-hover:opacity-60 md:text-4xl">
                           {project.category}

@@ -10,7 +10,6 @@ export type ProjectSection = {
 
 export type Project = {
   slug: string;
-  number: string;
   name: string;
   category: string;
   tags: string[];
@@ -24,7 +23,6 @@ export type Project = {
 export const projects: Project[] = [
   {
     slug: "stealth",
-    number: "01",
     name: "STEALTH",
     category: "Intelligence Operations",
     tags: ["AI NATIVE", "MULTI-SOURCE"],
@@ -64,7 +62,6 @@ export const projects: Project[] = [
   },
   {
     slug: "paylens",
-    number: "02",
     name: "PAYLENS",
     category: "Enterprise fintech & data",
     tags: ["ENTERPRISE", "FINTECH", "DATA"],
@@ -128,7 +125,6 @@ export const projects: Project[] = [
   },
   {
     slug: "modge",
-    number: "03",
     name: "MODGE",
     category: "Outsourcing & productivity",
     tags: ["OUTSOURCING", "OPERATIONS", "PRODUCTIVITY"],

@@ -44,9 +44,7 @@ export default async function ProjectPage({ params }: ProjectPageProps) {
       <section className="border-b border-border">
         <Container className="py-14 md:py-20">
           <Reveal>
-            <MonoLabel className="mb-6 block">
-              Project {project.number} / {project.year}
-            </MonoLabel>
+            <MonoLabel className="mb-6 block">{project.year}</MonoLabel>
             <h1 className="font-display text-5xl tracking-tight md:text-7xl">
               {project.name}
             </h1>
@@ -120,9 +118,7 @@ export default async function ProjectPage({ params }: ProjectPageProps) {
                   href={`/work/${item.slug}`}
                   className="col-span-12 border-t border-border pt-8 transition-opacity hover:opacity-70 md:col-span-6"
                 >
-                  <MonoLabel className="mb-3 block">
-                    {item.number} / {item.name}
-                  </MonoLabel>
+                  <MonoLabel className="mb-3 block">{item.name}</MonoLabel>
                   <p className="font-display text-2xl tracking-tight">
                     {item.category}
                   </p>

@@ -72,8 +72,7 @@ export function Hero() {
                   leverage to stay smaller, sharper, and closer to the problem.
                 </p>
               </div>
-              <div className="flex flex-col gap-3 sm:flex-row sm:gap-8">
-                <TextLink href="#thesis">Read the thesis →</TextLink>
+              <div>
                 <TextLink href="#companies">View companies →</TextLink>
               </div>
             </motion.div>
