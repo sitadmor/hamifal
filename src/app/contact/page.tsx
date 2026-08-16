@@ -35,8 +35,8 @@ export default function ContactPage() {
               <MonoLabel className="mb-6 block">Direct</MonoLabel>
               <ul className="space-y-4">
                 <li>
-                  <TextLink href="mailto:hello@hamifal.com" external>
-                    hello@hamifal.com
+                  <TextLink href="mailto:hello@hamifal.ai" external>
+                    hello@hamifal.ai
                   </TextLink>
                 </li>
                 <li>

@@ -22,8 +22,8 @@ export default function WorkPage() {
               Work
             </h1>
             <p className="mt-6 max-w-xl text-base leading-relaxed text-muted-foreground md:text-lg">
-              Ventures, products, and technical programs. Selected work from
-              across the studio.
+              Companies, products, and technical programs built across the
+              studio.
             </p>
           </Reveal>
         </Container>

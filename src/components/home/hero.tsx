@@ -65,7 +65,7 @@ export function Hero() {
               <div className="max-w-md space-y-5 text-base leading-relaxed text-muted-foreground md:text-lg">
                 <p>
                   HAMIFAL builds technology companies from first insight through
-                  product, customers, process, and scale.
+                  product, customers, and scale.
                 </p>
                 <p>
                   We start with real problems, work closely with customers and

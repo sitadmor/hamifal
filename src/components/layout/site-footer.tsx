@@ -42,8 +42,8 @@ export function SiteFooter() {
             <MonoLabel className="mb-4 block">Connect</MonoLabel>
             <ul className="space-y-3">
               <li>
-                <TextLink href="mailto:hello@hamifal.com" external className="text-sm">
-                  hello@hamifal.com
+                <TextLink href="mailto:hello@hamifal.ai" external className="text-sm">
+                  hello@hamifal.ai
                 </TextLink>
               </li>
               <li>

@@ -41,13 +41,9 @@ export function BehindHamifal() {
                   built the research organization from the ground up.
                 </p>
                 <p>
-                  His career has spanned both technology and business, from
+                  His work has spanned technology and company building, from
                   building the technology itself to turning it into products,
                   teams, customers, and companies.
-                </p>
-                <p>
-                  In recent years, he has focused on building companies and
-                  helping exceptional people build theirs.
                 </p>
               </div>
             </div>

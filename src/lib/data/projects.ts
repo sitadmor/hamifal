@@ -30,7 +30,7 @@ export const projects: Project[] = [
     summary:
       "Operators cannot hold dozens of sources in their head, and gathering that evidence by hand is too slow. Built to collect across sources quickly, keep context across far more information than a person can track, and produce one coherent picture operators can use.",
     description:
-      "Operators cannot hold dozens of sources in their head, and gathering that evidence by hand is too slow.\n\nIt collects across sources quickly, maintains context across far more information than one operator can track, and turns it into one coherent picture.\n\nThe product is in market with early users and design partners shaping its next stage.",
+      "Operators cannot hold dozens of sources in their head, and gathering that evidence by hand is too slow.\n\nStealth collects across sources quickly, maintains context across far more information than one operator can track, and turns it into one coherent picture.\n\nThe product is in market, with early design partners shaping its next stage.",
     visualTone: "ink",
     sections: [
       {
@@ -49,13 +49,13 @@ export const projects: Project[] = [
       {
         label: "What we did",
         body: [
-          "Built the company from zero to one across product and business: product strategy, architecture, agent design, and the first production release, alongside market validation, design partners, hiring, GTM, and early fundraising and strategic partnership work.",
+          "Worked across the company's zero-to-one phase: product strategy, architecture, agent design, and the first production release, alongside market validation, design partners, hiring, GTM, and early strategic work.",
         ],
       },
       {
         label: "Outcome",
         body: [
-          "A launched product with early design-partner traction, a team around it, and the foundations for commercial growth, fundraising, and strategic partnerships.",
+          "A launched product, early design-partner engagement, and a team built around the problem, with the foundation for commercial growth.",
         ],
       },
     ],
@@ -81,7 +81,7 @@ export const projects: Project[] = [
       {
         label: "Opportunity",
         body: [
-          "Build an operating system that turns fragmented insurance data into a reliable operational layer for the agency, and prove the business through real enterprise buying cycles.",
+          "Build an operating system that turns fragmented insurance data into a reliable operational layer for the agency, then prove the business through real enterprise buying cycles.",
         ],
       },
       {
@@ -132,7 +132,7 @@ export const projects: Project[] = [
     summary:
       "Outsourcing and ops teams manage work through forms filled out after the fact. Modge was built to capture real work as it happens and turn it into timesheets and insight leaders can trust.",
     description:
-      "Outsourcing and ops teams manage work through forms people fill out after the work is done. The real activity stays invisible.\n\nModge captures work as it happens, then turns it into timesheets, workflows, and productivity insight leaders can trust.\n\nThe product is live with the core operating workflows in place.",
+      "Outsourcing and ops teams manage work through forms people fill out after the work is done. The real activity stays invisible.\n\nModge captures work as it happens, then turns it into timesheets, workflows, and productivity insight leaders can trust.\n\nThe product was built and launched in 2025.",
     visualTone: "sand",
     sections: [
       {
@@ -175,7 +175,7 @@ export const projects: Project[] = [
       {
         label: "Outcome",
         body: [
-          "A live product brought to market with the core technical platform, operational workflows, and data foundation required to evolve from time tracking into broader workforce intelligence.",
+          "Built and launched the core product in 2025. The company was ultimately discontinued, but the work established a reusable foundation across desktop automation, operational data, and workflow systems.",
         ],
       },
     ],

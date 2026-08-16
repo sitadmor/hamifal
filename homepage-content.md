@@ -43,7 +43,7 @@ AI NATIVE · MULTI-SOURCE
 
 Operators cannot hold dozens of sources in their head, and gathering that evidence by hand is too slow.
 
-It collects across sources quickly, maintains context across far more information than one operator can track, and turns it into one coherent picture.
+Stealth collects across sources quickly, maintains context across far more information than one operator can track, and turns it into one coherent picture.
 
 The product is in market with early users and design partners shaping its next stage.
 
@@ -176,6 +176,6 @@ We build technology companies.
 
 Work · Thesis · Writing · Podcast
 
-[hello@hamifal.com](mailto:hello@hamifal.com) · LinkedIn
+[hello@hamifal.ai](mailto:hello@hamifal.ai) · LinkedIn
 
 © HAMIFAL / 2026

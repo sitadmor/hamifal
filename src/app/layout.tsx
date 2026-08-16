@@ -21,6 +21,7 @@ const syne = Syne({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://hamifal.ai"),
   title: {
     default: "HAMIFAL",
     template: "%s · HAMIFAL",
@@ -28,6 +29,7 @@ export const metadata: Metadata = {
   description:
     "HAMIFAL builds technology companies, from first insight through product, customers, and company.",
   applicationName: "HAMIFAL",
+
   icons: {
     icon: [
       { url: "/favicon.ico", sizes: "any" },

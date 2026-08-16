@@ -21,7 +21,7 @@ export function ContactForm() {
         <MonoLabel className="mb-4 block text-foreground">Received</MonoLabel>
         <p className="max-w-md text-base leading-relaxed text-muted-foreground">
           Thank you. This form is a front-end placeholder for now. Please email
-          hello@hamifal.com directly and we will respond.
+          hello@hamifal.ai directly and we will respond.
         </p>
       </div>
     );
