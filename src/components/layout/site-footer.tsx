@@ -48,7 +48,7 @@ export function SiteFooter() {
               </li>
               <li>
                 <TextLink
-                  href="https://www.linkedin.com"
+                  href="https://www.linkedin.com/company/hamifalai"
                   external
                   className="text-sm"
                 >

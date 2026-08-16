@@ -40,7 +40,7 @@ export default function ContactPage() {
                   </TextLink>
                 </li>
                 <li>
-                  <TextLink href="https://www.linkedin.com" external>
+                  <TextLink href="https://www.linkedin.com/company/hamifalai" external>
                     LinkedIn
                   </TextLink>
                 </li>
