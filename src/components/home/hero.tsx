@@ -64,12 +64,13 @@ export function Hero() {
             >
               <div className="max-w-md space-y-5 text-base leading-relaxed text-muted-foreground md:text-lg">
                 <p>
-                  HAMIFAL takes technology companies from first insight through
+                  HAMIFAL builds technology companies from first insight through
                   product, customers, process, and scale.
                 </p>
                 <p>
-                  AI and modern software made execution cheaper. We use that
-                  leverage to stay smaller, sharper, and closer to the problem.
+                  We start with real problems, work closely with customers and
+                  domain experts, and use software and AI to build better
+                  businesses around them.
                 </p>
               </div>
               <div>

@@ -28,15 +28,15 @@ export const thesisIntro = {
 export const thesisSections: ThesisSection[] = [
   {
     number: "01",
-    title: "Start with the customer",
+    title: "Start with the problem",
     blocks: [
       {
         type: "p",
-        text: "Get close to customers early.",
+        text: "Get close to customers and operators before deciding what to build.",
       },
       {
         type: "p",
-        text: "Build with real problems, real users, and real feedback from the beginning.",
+        text: "Understand the problem, the workflow, and the economics behind it.",
       },
       {
         type: "p",
@@ -64,11 +64,11 @@ export const thesisSections: ThesisSection[] = [
     blocks: [
       {
         type: "p",
-        text: "Knowing what to build matters more as building gets easier.",
+        text: "As building gets easier, knowing what to build matters more.",
       },
       {
         type: "p",
-        text: "Work with people who understand the problem, the customer, and the industry from the inside.",
+        text: "Work with people who understand the customer, the industry, and how the work actually gets done.",
       },
     ],
   },
